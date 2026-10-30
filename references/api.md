@@ -1,5 +1,7 @@
 # Twin3 Human API Reference
 
+> **Retired (2026-10-30):** the `human.twin3.ai` endpoint has been retired and no longer resolves. This skill is not usable; do not install it.
+
 Detailed parameter, request, response, and error reference for `GET https://human.twin3.ai/v1/human`.
 
 This file is loaded by the AI agent on demand when more detail is needed beyond the high-level command list in `SKILL.md`.

@@ -13,7 +13,7 @@
     {
       "name": "twin3-human",
       "source": "./",
-      "description": "Verify if any EVM wallet is backed by a real person — humanity score 0-255, proof of humanity, sybil resistance, per-method verification check. Pay per query with USD₮0 on X Layer (zero gas via OKX Onchain OS x402) or USDC on Base.",
+      "description": "RETIRED 2026-10-30: human.twin3.ai no longer resolves. Verify if any EVM wallet is backed by a real person — humanity score 0-255, proof of humanity, sybil resistance, per-method verification check. Pay per query with USD₮0 on X Layer (zero gas via OKX Onchain OS x402) or USDC on Base.",
       "version": "0.1.0",
       "author": {
         "name": "Twin3.ai",

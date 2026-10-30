@@ -1,5 +1,7 @@
 ## Overview
 
+> **Retired (2026-10-30):** the `human.twin3.ai` endpoint has been retired and no longer resolves. This skill is not usable; do not install it.
+
 Twin3 Human is a humanity-verification API that answers "is this wallet a real person?" for any EVM address, backed by 141,871 Twin Matrix Soulbound Tokens on BNB Chain plus the canonical Twin3 identity registry. Each query costs $0.001 USD₮0 on X Layer (zero gas via OKX Onchain OS x402 broker).
 
 Core operations:

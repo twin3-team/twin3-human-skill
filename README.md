@@ -1,5 +1,7 @@
 # twin3-human
 
+> **Retired (2026-10-30):** the `human.twin3.ai` endpoint has been retired and no longer resolves. This skill is not usable; do not install it.
+
 > Humanity-verification skill for [OKX OnchainOS](https://web3.okx.com/onchainos) / Agentic Wallet. Answers "is this wallet a real person?" for any EVM address, with per-method ZK-style verification checks. Pay per query with USD₮0 on X Layer (zero gas).
 
 Backed by **141,871 [Twin Matrix](https://twin3.ai) Soulbound Tokens** on BNB Chain plus the canonical Twin3 humanity registry. The full verification list never leaves Twin3 — only verdicts.

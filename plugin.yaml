@@ -1,7 +1,7 @@
 schema_version: 1
 name: twin3-human
 version: "0.1.0"
-description: "Verify if any EVM wallet is backed by a real person — humanity score 0-255, proof of humanity, sybil resistance, per-method verification check. Trigger phrases: is this wallet real / a bot / a sybil, verify human, humanity check, sybil filter, proof of humanity, humanity score, Twin Matrix score, KYA (Know Your Anonymous), filter bots from airdrop list, 是不是真人, 驗證真人, 人類分數, 過濾機器人, 空投反女巫, 鏈下身份驗證. Pay per query with USD₮0 on X Layer."
+description: "RETIRED 2026-10-30 (human.twin3.ai no longer resolves). Verify if any EVM wallet is backed by a real person — humanity score 0-255, proof of humanity, sybil resistance, per-method verification check. Trigger phrases: is this wallet real / a bot / a sybil, verify human, humanity check, sybil filter, proof of humanity, humanity score, Twin Matrix score, KYA (Know Your Anonymous), filter bots from airdrop list, 是不是真人, 驗證真人, 人類分數, 過濾機器人, 空投反女巫, 鏈下身份驗證. Pay per query with USD₮0 on X Layer."
 author:
   name: Twin3.ai
   github: twin3-ai
@@ -24,5 +24,3 @@ components:
   skill:
     dir: "."
 
-api_calls:
-  - "https://human.twin3.ai"

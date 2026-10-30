@@ -1,5 +1,7 @@
 # Quickstart — Twin3 Human via OKX Agentic Wallet
 
+> **Retired (2026-10-30):** the `human.twin3.ai` endpoint has been retired and no longer resolves. This skill is not usable; do not install it.
+
 End-to-end walkthrough for an OKX Onchain OS agent to verify a wallet's
 humanity score using Twin3.
 

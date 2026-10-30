@@ -21,6 +21,8 @@ metadata:
   payment_amount_usd: "0.001"
 ---
 
+> **Retired (2026-10-30):** the `human.twin3.ai` endpoint has been retired and no longer resolves. This skill is not usable; do not install it.
+
 # Twin3 Human — Humanity Verification for AI Agents
 
 ## Overview
